@@ -1,3 +1,7 @@
+# State
+
+This code is not production ready. Consider it an alpha release. Feel free to report any issues.
+
 # Usage
 
 This module takes as input an OrigQuote string and occurrence on the one hand,
